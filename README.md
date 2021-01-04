@@ -27,8 +27,8 @@ regions created from real-world images. It can be used for specular
 highlight detection task. It contains 4310 image pairs (specular
 images and corresponding highlight masks). We randomly selected 3,017
 images as the training set, and other 1293 images as the testing set.
-<font color='red'> _Now, our full dataset is publicly
-available_ </font>. You can download our dataset (size: 2G+) by Baidu
+<font color='red'> Now, our full dataset is publicly
+available </font>. You can download our dataset (size: 2G+) by Baidu
 Cloud (Link: https://pan.baidu.com/s/1UizWty88XNhdI3PSNm0B-Q password:
 t3ov) and Google Drive (Link:
 https://drive.google.com/file/d/1yLSBr5tfYL-u4RyStX1sPmrJGCVuo0GB/view?usp=sharing).
