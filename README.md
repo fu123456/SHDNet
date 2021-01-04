@@ -21,3 +21,24 @@ regions, such as bright materials, non-specular as well as colored
 lighting, and even light sources.
 
 # WHU-Specular dataset
+
+WHU-Specular is a large dataset of annotated specular highlight
+regions created from real-world images. It can be used for specular
+highlight detection task. It contains 4310 image pairs (specular
+images and corresponding highlight masks). We randomly selected 3,017
+images as the training set, and other 1293 images as the testing set.
+Our full dataset is publicly available. You can download our dataset
+by Baidu Cloud (Link: https://pan.baidu.com/s/1UizWty88XNhdI3PSNm0B-Q
+password: t3ov) and Google Drive (Link:
+https://drive.google.com/file/d/1yLSBr5tfYL-u4RyStX1sPmrJGCVuo0GB/view?usp=sharing).
+
+If you use our dataset, please cite the following paper:
+
+```text
+@inproceedings{fu-2020-learn-detec,
+  author = {Fu, Gang and Zhang, Qing and Lin, Qifeng and Zhu, Lei and Xiao, Chunxia},
+  title = {Learning to Detect Specular Highlights from Real-world Images},
+  booktitle = {ACM Multimedia},
+  year = {2020},
+  pages = {1873--1881},
+}
