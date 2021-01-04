@@ -23,6 +23,7 @@ lighting, and even light sources.
 # WHU-Specular dataset
 
 ![Example highlight images and corresponding highlight masks in our dataset. Please zoom in to view more details.](images/data_teaser.png)
+*Example highlight images and corresponding highlight masks in our dataset. Please zoom in to view more details.*
 
 WHU-Specular is a large dataset of annotated specular highlight
 regions created from real-world images. It can be used for specular
