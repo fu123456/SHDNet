@@ -74,9 +74,11 @@ pages = {1873--1881},
 Note that the authors of the paper [2] have not released their
 code. Thus We implemented the following specular highlight detection
 method using Matlab ourselves. The code is in
-'*src/highlight_detection_tmi2019*'.
+*src/highlight_detection_tmi2019*.
 
 ## Other Learning-based detection methods in related fields
+
+TODO ... ...
 
 # References
 
