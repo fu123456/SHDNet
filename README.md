@@ -1,3 +1,14 @@
+# SHDNet
+
+[Paper](https://dl.acm.org/doi/abs/10.1145/3394171.3413586)
+
+![Comparison with state-of-the-art highlight detection methods on an example image with very bright texts and materials.](images/introduction.png)
+*Comparison with state-of-the-art highlight detection methods on an example image with very bright texts and materials.*
+
+Learning to Detect Specular Highlights from Real-world Images
+[Gang Fu](https://github.com/fu123456), [Qing Zhang](http://zhangqing-home.net/), QiFeng Lin, [Lei Zhu](), and [Chunaxia Xiao](http://graphvision.whu.edu.cn/)
+ACM Multimedia 2020.
+
 # Introduction
 
 Specular highlight detection is a challenging problem, and has many
@@ -35,6 +46,8 @@ dataset (size: 2G+) by Baidu Cloud (Link:
 https://pan.baidu.com/s/1UizWty88XNhdI3PSNm0B-Q password: t3ov) and
 Google Drive (Link:
 https://drive.google.com/file/d/1yLSBr5tfYL-u4RyStX1sPmrJGCVuo0GB/view?usp=sharing).
+
+# Citation
 
 If you use our dataset, please cite the following paper:
 
