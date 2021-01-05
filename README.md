@@ -1,4 +1,6 @@
-# SHDNet
+# Overview
+
+This is the project about our SHDNet.
 
 [Paper](https://dl.acm.org/doi/abs/10.1145/3394171.3413586)
 
@@ -8,8 +10,6 @@
 Learning to Detect Specular Highlights from Real-world Images
 [Gang Fu](https://github.com/fu123456), [Qing Zhang](http://zhangqing-home.net/), QiFeng Lin, [Lei Zhu](), and [Chunaxia Xiao](http://graphvision.whu.edu.cn/)
 ACM Multimedia 2020.
-
-# Introduction
 
 Specular highlight detection is a challenging problem, and has many
 applications such as shiny object detection and light source
