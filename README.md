@@ -8,7 +8,9 @@ This is the project about our SHDNet.
 *Comparison with state-of-the-art highlight detection methods on an example image with very bright texts and materials.*
 
 Learning to Detect Specular Highlights from Real-world Images
+
 [Gang Fu](https://github.com/fu123456), [Qing Zhang](http://zhangqing-home.net/), QiFeng Lin, [Lei Zhu](), and [Chunaxia Xiao](http://graphvision.whu.edu.cn/)
+
 ACM Multimedia 2020.
 
 Specular highlight detection is a challenging problem, and has many
