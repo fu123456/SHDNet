@@ -72,8 +72,7 @@ pages = {1873--1881},
 ## Traditional highlight detection methods
 
 Note that the authors of the paper [2] have not released their
-code. Thus We implemented the following specular highlight detection
-method using Matlab ourselves. The code is in
+code. Thus we have implemented their algorithm using Matlab ourselves. The code is in
 *src/highlight_detection_tmi2019*.
 
 The code of [3] is available at the project website [specularity-removal](https://github.com/muratkrty/specularity-removal).
