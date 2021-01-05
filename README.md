@@ -34,6 +34,9 @@ different sizes, while effectively excluding the non- highlight
 regions, such as bright materials, non-specular as well as colored
 lighting, and even light sources.
 
+If you have any questions about this project, please contact me via
+Email: xyzgfu@gmail.com
+
 # WHU-Specular dataset
 
 ![Example highlight images and corresponding highlight masks in our dataset. Please zoom in to view more details.](images/data_teaser.png)
