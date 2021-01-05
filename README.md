@@ -2,7 +2,7 @@
 
 This is the project about our SHDNet.
 
-[Paper](https://dl.acm.org/doi/abs/10.1145/3394171.3413586)
+[Paper](https://dl.acm.org/doi/abs/10.1145/3394171.3413586), [Supplement](http://graphvision.whu.edu.cn/papers/supplement_SHDNet.pdf), and [Video](https://dl.acm.org/doi/abs/10.1145/3394171.3413586)
 
 ![Comparison with state-of-the-art highlight detection methods on an example image with very bright texts and materials.](images/introduction.png)
 *Comparison with state-of-the-art highlight detection methods on an example image with very bright texts and materials.*
@@ -11,7 +11,8 @@ Learning to Detect Specular Highlights from Real-world Images
 
 [Gang Fu](https://github.com/fu123456), [Qing Zhang](http://zhangqing-home.net/), QiFeng Lin, [Lei Zhu](), and [Chunaxia Xiao](http://graphvision.whu.edu.cn/)
 
-ACM Multimedia 2020.
+[ACM Multimedia 2020](https://2020.acmmm.org/)
+
 
 Specular highlight detection is a challenging problem, and has many
 applications such as shiny object detection and light source
@@ -48,6 +49,18 @@ dataset (size: 2G+) by Baidu Cloud (Link:
 https://pan.baidu.com/s/1UizWty88XNhdI3PSNm0B-Q password: t3ov) and
 Google Drive (Link:
 https://drive.google.com/file/d/1yLSBr5tfYL-u4RyStX1sPmrJGCVuo0GB/view?usp=sharing).
+
+# References
+
+[1] Zhang, W., Zhao, X., Morvan, J., & Chen, L. (2018). Improving
+  shadow suppression for illumination robust face recognition. IEEE
+  Transactions on Pattern Analysis and Machine Intelligence, 41(3),
+  611–624.
+
+[2] Li, R., Pan, J., Si, Y., Yan, B., Hu, Y., & Qin, H. (2019). Specular
+  reflections removal for endoscopic image sequences with
+  adaptive-rpca decomposition. IEEE Transactions on Medical Imaging,
+  39(2), 328–340.
 
 # Citation
 
