@@ -76,6 +76,10 @@ code. Thus We implemented the following specular highlight detection
 method using Matlab ourselves. The code is in
 *src/highlight_detection_tmi2019*.
 
+The code of [3] is available at the project website [specularity-removal](https://github.com/muratkrty/specularity-removal).
+
+The code of [4] is available at the project website [some_specular_detection_and_inapinting_methods_for_endoscope_image](https://github.com/jiemojiemo/some_specular_detection_and_inpainting_methods_for_endoscope_image).
+
 ## Other Learning-based detection methods in related fields
 
 TODO ... ...
@@ -83,14 +87,25 @@ TODO ... ...
 # References
 
 [1] Zhang, W., Zhao, X., Morvan, J., & Chen, L. (2018). Improving
-  shadow suppression for illumination robust face recognition. IEEE
-  Transactions on Pattern Analysis and Machine Intelligence, 41(3),
-  611–624.
+shadow suppression for illumination robust face recognition. IEEE
+Transactions on Pattern Analysis and Machine Intelligence, 41(3),
+611–624.
 
 [2] Li, R., Pan, J., Si, Y., Yan, B., Hu, Y., & Qin, H. (2019). Specular
-  reflections removal for endoscopic image sequences with
-  adaptive-rpca decomposition. IEEE Transactions on Medical Imaging,
-  39(2), 328–340.
+reflections removal for endoscopic image sequences with
+adaptive-rpca decomposition. IEEE Transactions on Medical Imaging,
+39(2), 328–340.
+
+[3] Tchoulack, S., Langlois, J. M. P., & Cheriet, F. (2008). A video
+stream processor for real-time detection and correction of specular
+reflections in endoscopic images. In , Joint International IEEE
+Northeast Workshop on Circuits and Systems and Taisa Conference.
+
+[4] Meslouhi, O., Kardouchi, M., Allali, H., Gadi, T., & Benkaddour,
+Y. (2011). Automatic detection and inpainting of specular
+reflections for colposcopic images. Open Computer Science, 1(3),
+341–354.
+
 
 # Citation
 
@@ -98,9 +113,9 @@ If you use our dataset, please cite the following paper:
 
 ```text
 @inproceedings{fu-2020-learn-detec,
-  author = {Fu, Gang and Zhang, Qing and Lin, Qifeng and Zhu, Lei and Xiao, Chunxia},
-  title = {Learning to Detect Specular Highlights from Real-world Images},
-  booktitle = {ACM Multimedia},
-  year = {2020},
-  pages = {1873--1881},
+author = {Fu, Gang and Zhang, Qing and Lin, Qifeng and Zhu, Lei and Xiao, Chunxia},
+title = {Learning to Detect Specular Highlights from Real-world Images},
+booktitle = {ACM Multimedia},
+year = {2020},
+pages = {1873--1881},
 }
