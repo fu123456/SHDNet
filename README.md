@@ -50,6 +50,19 @@ https://pan.baidu.com/s/1UizWty88XNhdI3PSNm0B-Q password: t3ov) and
 Google Drive (Link:
 https://drive.google.com/file/d/1yLSBr5tfYL-u4RyStX1sPmrJGCVuo0GB/view?usp=sharing).
 
+WHU-Specular dataset is intended only for research purposes and thus
+cannot be used commercially. Moreover, reference must be made to the following
+publication when the dataet is used in any academic and research reports.
+
+```text
+@inproceedings{fu-2020-learn-detec,
+author = {Fu, Gang and Zhang, Qing and Lin, Qifeng and Zhu, Lei and Xiao, Chunxia},
+title = {Learning to Detect Specular Highlights from Real-world Images},
+booktitle = {ACM Multimedia},
+year = {2020},
+pages = {1873--1881},
+}
+
 # References
 
 [1] Zhang, W., Zhao, X., Morvan, J., & Chen, L. (2018). Improving
