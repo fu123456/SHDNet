@@ -51,7 +51,7 @@ images as the training set, and other 1293 images as the testing set.
 dataset (size: 2G+) by Baidu Cloud (Link:
 https://pan.baidu.com/s/1UizWty88XNhdI3PSNm0B-Q password: t3ov) and
 Google Drive (Link:
-https://drive.google.com/file/d/1yLSBr5tfYL-u4RyStX1sPmrJGCVuo0GB/view?usp=sharing**.
+https://drive.google.com/file/d/1yLSBr5tfYL-u4RyStX1sPmrJGCVuo0GB/view?usp=sharing.
 
 **Statement**. WHU-Specular dataset is intended only for research
 purposes and thus cannot be used commercially. Moreover, reference
