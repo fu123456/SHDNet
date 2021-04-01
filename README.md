@@ -9,7 +9,7 @@ This is the project about our SHDNet.
 
 Learning to Detect Specular Highlights from Real-world Images
 
-[Gang Fu](https://github.com/fu123456), [Qing Zhang](http://zhangqing-home.net/), QiFeng Lin, [Lei Zhu](), and [Chunaxia Xiao](http://graphvision.whu.edu.cn/)
+[Gang Fu](https://github.com/fu123456), [Qing Zhang](http://zhangqing-home.net/), QiFeng Lin, [Lei Zhu](https://appsrv.cse.cuhk.edu.hk/~lzhu/), and [Chunaxia Xiao](http://graphvision.whu.edu.cn/)
 
 [ACM Multimedia 2020](https://2020.acmmm.org/)
 
