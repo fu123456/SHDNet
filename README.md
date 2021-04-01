@@ -56,7 +56,7 @@ https://drive.google.com/file/d/1yLSBr5tfYL-u4RyStX1sPmrJGCVuo0GB/view?usp=shari
 # WHU-TRIIW dataset
 
 You may be interested in our testing dataset of 500 real-world images in the wild.
-This testing dataset is available at https://drive.google.com/file/d/1A-RDJUz6n3-tkxWNe0WGNxHKww3AkNig/view?usp=sharing .
+This testing dataset is available at https://drive.google.com/file/d/1A-RDJUz6n3-tkxWNe0WGNxHKww3AkNig/view?usp=sharing (size:~826M) .
 Most of images in this dataset are collected from Flickr. These images are often with a lot of white materials as well as texts, which means that
 they are more challenging. So we can use them to validate the generality and robustness of our method and existing methods.
 Some example images are shown in the below figure.
