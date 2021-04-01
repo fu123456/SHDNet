@@ -53,7 +53,18 @@ https://pan.baidu.com/s/1UizWty88XNhdI3PSNm0B-Q password: t3ov) and
 Google Drive (Link:
 https://drive.google.com/file/d/1yLSBr5tfYL-u4RyStX1sPmrJGCVuo0GB/view?usp=sharing.
 
-**Statement**. WHU-Specular dataset is intended only for research
+# WHU-TRIIW dataset
+
+You may be interested in our testing dataset of 500 real-world images in the wild.
+This testing dataset is available at https://drive.google.com/file/d/1A-RDJUz6n3-tkxWNe0WGNxHKww3AkNig/view?usp=sharing .
+Most of images in this dataset are collected from Flickr. These images are often with a lot of white materials as well as texts, which means that
+they are more challenging. So we can use them to validate the generality and robustness of our method and existing methods.
+Some example images are shown in the below figure.
+
+![Example testing images in the wild.](images/image_in_the_wild.png)
+*Example testing images in the wild. They are collected from Flickr*
+
+**Statement**. WHU-Specular dataset and WHU-TRIIW dataset are intended only for research
 purposes and thus cannot be used commercially. Moreover, reference
 must be made to the following publication when the dataet is used in
 any academic and research reports.
